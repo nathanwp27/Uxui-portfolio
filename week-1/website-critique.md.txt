@@ -23,3 +23,8 @@ Accessibility Observations:
 ## Reflection
 
 What did I learn about UX/UI design from this activity?
+
+
+## AI-Assisted Notes
+
+I used an AI tool to help identify possible UX/UI and accessibility issues. I reviewed the suggestions and selected the ones that were most useful.
